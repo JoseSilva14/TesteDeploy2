@@ -1,7 +1,7 @@
 {
   "entryAssembly": "testedeploy",
   "resources": {
-    "hash": "sha256-R/FZ+GbxiejeLK8volizkZOGpKyrzatsI6PHucg9Dtk=",
+    "hash": "sha256-eU7y98Da67UfV096ioeqic4FACcbNeNsg4ptqy32h/w=",
     "runtime": {
       "dotnet.7.0.16.or335ugtag.js": "sha256-4BiArKugJJtpQrznGF5zWfmJ2TB98+p6rKsyoqhtMk4=",
       "dotnet.timezones.blat": "sha256-rwyJqJu36keQwNmm/O1XV7tnkkVldIOK8GIjn4gTUt4=",
@@ -37,7 +37,7 @@
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-DwQxV7PGZwEnxegxCQKkpS7U755NUxSkhUQPa0vhhv4=",
       "System.Text.Encodings.Web.dll": "sha256-JtlNCowjopqTFgu6Q8JsFOjb+KguYBrCOZj5ITmDggc=",
       "System.Text.Json.dll": "sha256-3Xz8GaT9piqvmyx3cThR7Z3Kyl7gFnHIxDlQv7FUL9k=",
-      "testedeploy.dll": "sha256-VHkQJxrmHY52PLHFNiEWbBdPFcajJUhn+ZGo/kljS2U="
+      "testedeploy.dll": "sha256-3Nt6aA4OTl4Jo40UE/sHWoJAkpbqlpw6J+ApHWNSXW4="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

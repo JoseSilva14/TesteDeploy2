@@ -825,3 +825,5 @@ C:\Users\JoséSilva\source\repos\testedeploy\testedeploy\obj\Release\net7.0\test
 C:\Users\JoséSilva\source\repos\testedeploy\testedeploy\obj\Release\net7.0\ref\testedeploy.dll
 C:\Users\JoséSilva\source\repos\testedeploy\testedeploy\bin\Release\net7.0\publish\web.config
 C:\Users\JoséSilva\source\repos\testedeploy\testedeploy\bin\Release\net7.0\publish\wwwroot\_framework\blazor.boot.json
+C:\Users\JoséSilva\source\repos\testedeploy\testedeploy\bin\Release\net7.0\publish\publish\wwwroot\_framework\blazor.boot.json
+C:\Users\JoséSilva\source\repos\testedeploy\testedeploy\bin\Release\net7.0\vercel.json

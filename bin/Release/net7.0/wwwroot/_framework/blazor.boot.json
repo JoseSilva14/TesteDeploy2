@@ -1,7 +1,7 @@
 {
   "entryAssembly": "testedeploy",
   "resources": {
-    "hash": "sha256-1jJyLVDCU10aOATjXlHa6oFrP/1K7loHoMsXZYuD85M=",
+    "hash": "sha256-bSMc2YTI7cl3lvqQWiVtCUpesiTG5gSpgP9MpTIdx7g=",
     "runtime": {
       "dotnet.7.0.16.or335ugtag.js": "sha256-4BiArKugJJtpQrznGF5zWfmJ2TB98+p6rKsyoqhtMk4=",
       "dotnet.timezones.blat": "sha256-rwyJqJu36keQwNmm/O1XV7tnkkVldIOK8GIjn4gTUt4=",
@@ -202,10 +202,10 @@
       "mscorlib.dll": "sha256-7yxnoj0sx/xIMKjSCkfYzaeQKDj1UsUSr/JXW7fRggs=",
       "netstandard.dll": "sha256-c9xgB5oQro5/rBTTHeD+4cqLi9QOB+6fhaP3jmkeGo4=",
       "System.Private.CoreLib.dll": "sha256-FGXoQzMt7mcWfUZbWXoXgg8tPIt7PF+QZoXXBQWegAQ=",
-      "testedeploy.dll": "sha256-3Nt6aA4OTl4Jo40UE/sHWoJAkpbqlpw6J+ApHWNSXW4="
+      "testedeploy.dll": "sha256-hILWIK5CQMRQG/qVu2/kPFhSycxcVL3bqB0uVrglT6k="
     },
     "pdb": {
-      "testedeploy.pdb": "sha256-vcYy0Tv3kNU18X+tdjCKfnHWSztUeqhpKwG0jNMzJec="
+      "testedeploy.pdb": "sha256-ziqo4XWR2DhCe4KpgL5tOgG+yPUuWg0owt5oUSlvQAs="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

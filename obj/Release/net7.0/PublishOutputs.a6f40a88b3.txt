@@ -1,3 +1,5 @@
 C:\Users\JoséSilva\source\repos\testedeploy\testedeploy\publish\publish\web.config
+C:\Users\JoséSilva\source\repos\testedeploy\testedeploy\publish\publish\publish\wwwroot\_framework\blazor.boot.json
 C:\Users\JoséSilva\source\repos\testedeploy\testedeploy\publish\publish\wwwroot\_framework\blazor.boot.json
+C:\Users\JoséSilva\source\repos\testedeploy\testedeploy\publish\vercel.json
 C:\Users\JoséSilva\source\repos\testedeploy\testedeploy\publish\web.config
